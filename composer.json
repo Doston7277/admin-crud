@@ -1,5 +1,5 @@
 {
-    "name": "ddev/admin-crud",
+    "name": "ddevuz/admin-crud",
     "description": "admin panel uchun crud",
     "autoload": {
         "psr-4": {
