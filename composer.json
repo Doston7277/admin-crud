@@ -1,6 +1,8 @@
 {
-    "name": "ddevuz/admin-crud",
-    "description": "admin panel uchun crud",
+    "name": "ddev/admin-crud",
+    "description": "A Laravel package for admin CRUD generation",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Ddev\\AdminCrud\\": "src/"
@@ -12,5 +14,8 @@
             "email": "doston.3401@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^11.0"
+    }
 }
