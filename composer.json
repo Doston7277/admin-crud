@@ -1,0 +1,16 @@
+{
+    "name": "ddev/admin-crud",
+    "description": "admin panel uchun crud",
+    "autoload": {
+        "psr-4": {
+            "Ddev\\AdminCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Doston",
+            "email": "doston.3401@gmail.com"
+        }
+    ],
+    "require": {}
+}
